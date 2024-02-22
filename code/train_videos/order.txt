@@ -1,0 +1,19 @@
+train0-f.mp4
+train0-s.mp4
+
+--------------
+
+			FRONT_OFFSET (include 0 and -1)
+1 - Priyanshi		  97
+2 - Gayatri
+3 - Khushi		 -117
+4 - Soham
+5 - Mayur
+
+
+Note: for blender: |FRONT_OFFSET| - 2 and set appriopriate cam
+
+  How to Sample the answer
+Few frames before 'thinking'
+TO
+few frames after answering (before next question begins; slight overlap okay)
