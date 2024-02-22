@@ -3,3 +3,4 @@ code/Scripts/
 code/pyvenv.cfg
 **/.ipynb_checkpoints/
 *-checkpoint.ipynb
+code/train_videos/
