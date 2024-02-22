@@ -4,3 +4,5 @@ code/pyvenv.cfg
 **/.ipynb_checkpoints/
 *-checkpoint.ipynb
 *.mp4
+*.zip
+*.jpeg
