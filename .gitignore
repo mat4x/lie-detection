@@ -1,3 +1,5 @@
 code/Lib/
 code/Scripts/
-.ipynb_checkpoints
+code/pyvenv.cfg
+**/.ipynb_checkpoints/
+*-checkpoint.ipynb
