@@ -5,9 +5,9 @@ train0-s.mp4
 
 			FRONT_OFFSET (include 0 and -1)
 1 - Priyanshi		  97
-2 - Gayatri
+2 - Gayatri		 -42
 3 - Khushi		 -117
-4 - Soham
+4 - Soham		  62
 5 - Mayur
 
 
