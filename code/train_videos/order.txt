@@ -8,7 +8,7 @@ train0-s.mp4
 2 - Gayatri		 -42
 3 - Khushi		 -117
 4 - Soham		  62
-5 - Mayur
+5 - Mayur		 -232
 
 
 Note: for blender: |FRONT_OFFSET| - 2 and set appriopriate cam
