@@ -1,5 +1,4 @@
 # lie-detection
- B.Tech Final Year Project
 
 Computer vision is **a field of computer science that focuses on enabling computers to identify and understand objects and people in images and videos**.
 
